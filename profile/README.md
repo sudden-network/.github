@@ -1,4 +1,4 @@
-![An illustration showing the Sudden logo and tagline over a magenta sci-fi landscape with floating islands, a ringed planet, a rocket in flight, and crews of space pirates gathered on surrounding outposts.](https://raw.githubusercontent.com/sudden-network/.github/main/profile/banner.png)
+<img src="https://raw.githubusercontent.com/sudden-network/.github/main/profile/banner.png" alt="An illustration showing the Sudden logo and tagline over a magenta sci-fi landscape with floating islands, a ringed planet, a rocket in flight, and crews of space pirates gathered on surrounding outposts." width="1983" height="793" style="width: 100%; height: auto;" />
 
 Sudden is building the next generation of peer-assisted video delivery for media, entertainment, sports, and gaming companies. We help reduce video delivery costs with software that works alongside your existing delivery infrastructure.
 
