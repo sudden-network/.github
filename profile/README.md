@@ -6,13 +6,13 @@ This GitHub organization is where we share our public code, tools, and developer
 
 ## Install the Skill
 
-Give your AI assistant deep knowledge of Sudden integrations, configuration, and implementation patterns:
+Teach your agent how to integrate, configure, and implement Sudden:
 
 ```sh
 npx skills add sudden-network/skills
 ```
 
-This installs the Sudden skill into your project. Once installed, your AI assistant automatically loads it when working on Sudden integrations.
+This installs the skill into your project and makes it available to your agent when working with Sudden.
 
 ## Documentation
 
